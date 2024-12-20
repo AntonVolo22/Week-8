@@ -8,7 +8,7 @@ string[] villains = File.ReadAllLines(Path.Combine(folderPath, villainFile));
 
 
 
-//string[] heroes = {"Harry Potter", "Luke Skywalker", "Lara Croft", "Scooby-Doo"};
+//string[] heroes = {"Harry Potter", "Luke Skywalker", "Lara Croft", "Bilbo Baggins", "Scooby-Doo"};
 //string[] villains = {"Voldemort", "Darth Vader", "Dracula", "Joker", "Sauron"};
 
 
